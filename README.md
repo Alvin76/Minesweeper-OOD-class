@@ -19,7 +19,7 @@ what properity of the cells
     
   
 randomizer funtion 
-  initializes the game 
+  initializes the game -- Johnathan Stadtmueller
 
 counter / score 
   fines the numbers for the mines 
