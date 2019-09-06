@@ -24,13 +24,13 @@ randomizer funtion
 counter / score 
   fines the numbers for the mines -- Johnathan Stadtmueller
   
-input function 
+input function -- Adam Davies
   use type in values
   
 blank space 
   all adjacent spaces are checked 
   
-validator function 
+validator function -- Adam Davies
  
 main function 
   win / lose conditions 
