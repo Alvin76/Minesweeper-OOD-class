@@ -22,7 +22,7 @@ randomizer funtion
   initializes the game -- Johnathan Stadtmueller
 
 counter / score 
-  fines the numbers for the mines 
+  fines the numbers for the mines -- Johnathan Stadtmueller
   
 input function 
   use type in values
