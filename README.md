@@ -13,7 +13,10 @@ what properity of the cells
     pull 
   ID value
     get pull
-  
+  cell choices 
+    B blank 
+    
+    
   
 randaimzsr funtion 
   inlizies the game 
