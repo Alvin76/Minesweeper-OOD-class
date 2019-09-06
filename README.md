@@ -2,7 +2,7 @@
 no GUI 
 
 
-we are going to use a 2 dimensional array 
+we are going to use a 2 dimensional array Paul Tutt
 
 what properity of the cells 
   x,y location 
