@@ -4,7 +4,7 @@ no GUI
 
 we are going to use a 2 dimensional array Paul Tutt
 
-what properity of the cells -- Davion Clark
+what properity of the cells 
   x,y location 
     get 
     pull
@@ -14,7 +14,7 @@ what properity of the cells -- Davion Clark
   ID value
     get pull
   cell choices 
-    B blank 
+    B blank -- Davion Clark
     
     
   
