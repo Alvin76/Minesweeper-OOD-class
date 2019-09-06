@@ -2,13 +2,13 @@
 no GUI 
 
 
-we are going to use a 2 dimintinal array 
+we are going to use a 2 dimensional array 
 
 what properity of the cells 
   x,y location 
     get 
     pull
-  indacator 
+  indicator 
     get
     pull 
   ID value
@@ -18,19 +18,19 @@ what properity of the cells
     
     
   
-randaimzsr funtion 
-  inlizies the game 
+randomizer funtion 
+  initializes the game 
 
-counter / sorce 
+counter / score 
   fines the numbers for the mines 
   
 input function 
   use type in values
   
 blank space 
-  all ajeasent spaces are checked 
+  all adjacent spaces are checked 
   
-valadator function 
+validator function 
  
 main function 
   win / lose conditions 
