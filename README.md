@@ -28,7 +28,7 @@ input function -- Adam Davies
   use type in values
   
 blank space 
-  all adjacent spaces are checked 
+  all adjacent spaces are checked Paul Tutt
   
 validator function -- Adam Davies
  
