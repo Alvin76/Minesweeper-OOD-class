@@ -33,5 +33,5 @@ blank space
 validator function -- Adam Davies
  
 main function 
-  win / lose conditions 
+  win / lose conditions  -- Miguel Montiel
   
