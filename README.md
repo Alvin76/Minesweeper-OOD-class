@@ -4,7 +4,7 @@ no GUI
 
 we are going to use a 2 dimensional array Paul Tutt
 
-what properity of the cells 
+what properity of the cells -- Davion Clark
   x,y location 
     get 
     pull
